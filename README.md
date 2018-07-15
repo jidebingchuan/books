@@ -17,5 +17,5 @@
 ## cheat sheet系列
 [cheat sheet系列](https://github.com/detailyang/awesome-cheatsheet)
 
-## awesome资源集合
+## awesome系列
 [awesome集合](https://github.com/sindresorhus/awesome)
