@@ -18,5 +18,8 @@
 [cheat sheet系列](https://github.com/detailyang/awesome-cheatsheet)
 [cheat sheet系列](https://www.cheatography.com/)
 
+## awesome系列中文
+[伯乐在线]（https://github.com/jobbole）
+
 ## awesome系列
 [awesome集合](https://github.com/sindresorhus/awesome)
