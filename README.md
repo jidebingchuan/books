@@ -11,5 +11,8 @@
 ## Mysql
 [awesome-mysql](https://github.com/jobbole/awesome-mysql-cn)
 
+## 区块链
+[区块链](https://github.com/LiuBoyu/blockchain)
+
 ## awesome资源集合
 [awesome集合](https://github.com/sindresorhus/awesome)
