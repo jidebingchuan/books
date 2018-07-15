@@ -12,4 +12,4 @@
 [awesome-mysql](https://github.com/jobbole/awesome-mysql-cn)
 
 ## awesome资源集合
-[awesome集合]（https://github.com/sindresorhus/awesome）
+[awesome集合](https://github.com/sindresorhus/awesome)
