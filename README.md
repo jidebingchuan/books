@@ -14,5 +14,8 @@
 ## 区块链
 [区块链](https://github.com/LiuBoyu/blockchain)
 
+## cheat sheet系列
+[cheat sheet系列](https://github.com/detailyang/awesome-cheatsheet)
+
 ## awesome资源集合
 [awesome集合](https://github.com/sindresorhus/awesome)
